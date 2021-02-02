@@ -1,0 +1,21 @@
+.username {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+nav .logo {
+  margin-right: auto;
+}
+.login,
+.register {
+  color: white;
+}
+
+.register:hover {
+  color: rgb(219, 216, 216);
+}
+
+.login:hover {
+  color: rgb(219, 216, 216);
+}
